@@ -1,0 +1,7 @@
+# visual studio files
+*.suo
+*.user
+
+# compiled output files
+*/bin/*
+*/obj/*
